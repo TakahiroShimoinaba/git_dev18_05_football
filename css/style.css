@@ -1,0 +1,14 @@
+/* ここから下に記載していく */
+
+.wrap {
+  display: flex;
+}
+
+.box {
+  background-color: #fff;
+  border: dotted;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 60px;
+  padding-top: 30px;
+}
